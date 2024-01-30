@@ -30,8 +30,8 @@ This method should prrint all employee class properities.
 
 5. Call printInfo(){} method to print object values
 Example, when the running the program the output should be similar to the below:
-
-
+  
+  
 ```
 ID: 1
 Name: Ahmed
@@ -39,7 +39,8 @@ Role: Software developer
 Salary: 10000
 
 ```
-  
+<br/>
+<br/>
   
 ```cpp
 #include <iostream>

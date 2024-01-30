@@ -23,7 +23,7 @@ printInfo(){}
 This method should prrint all employee class properities.
 
 
-- In `Employee` class:
+- In `main` function:
 3. Create object of Employee class
 
 4. Access object properities and assighn value for each one

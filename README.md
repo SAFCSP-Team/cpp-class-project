@@ -2,17 +2,17 @@
 
 ### Objective
 
-In this project, our main goal is to understand how to build class and use it's properities and methods by creating objects.
+In this project, our main goal is to understand how to build a class and use its properties and methods by creating objects.
 
 ### Problem
 
-Build employees class with the mentioned properities and methods below:
+Build employees class, with the mentioned properties and methods below:
 
 ### Implementation
 
-- In `Employee` class:
+- In the `Employee` class:
 
-1. Add the properities below to the employee class:  
+1. Add the properties below to the employee class:  
 int id
 string name
 string role
@@ -20,16 +20,16 @@ double salary
 
 2. Add the method below to the employee class:
 printInfo(){}  
-This method should prrint all employee class properities.
+This method should print all employee class properties.
 
 
-- In `main` function:
-3. Create object of Employee class
+- In the `main` function:
+3. Create an object of the Employee class
 
-4. Access object properities and assighn value for each one
+4. Access object properties and assign value for each one
 
 5. Call printInfo(){} method to print object values
-Example, when the running the program the output should be similar to the below:
+For example, when running the program the output should be similar to the below:
   
   
 ```
@@ -51,7 +51,7 @@ class Employee {
 
     public:
     /* Add your code here 
-    1. Propereties id, name, roel, salary
+    1. Properties id, name, role, salary
     */
 
 
@@ -65,11 +65,11 @@ class Employee {
 int main(){
 
     /* Add your code here 
-    3. Create object of Employee class
+    3. Create an object of the Employee class
     */
 
    /* Add your code here 
-    4. Access object properities and assighn value for each one
+    4. Access object properties and assign value for each one
     */
 
    /* Add your code here 

@@ -1,4 +1,4 @@
-# For Loop
+# Class project
 
 ### Objective
 

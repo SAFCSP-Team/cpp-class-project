@@ -6,7 +6,7 @@ In this project, our main goal is to understand how to build a class and use its
 
 ### Problem
 
-Build employees class, with the mentioned properties and methods below:
+Build employees class, with the mentioned properties and methods below.
 
 ### Implementation
 
@@ -28,7 +28,7 @@ This method should print all Employee class properties.
 
 4. Access object properties and assign value for each one
 
-5. Call printInfo(){} method to print object values
+5. Call `printInfo()` method to print object values
 For example, when running the program the output should be similar to the below:
   
   

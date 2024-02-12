@@ -12,15 +12,15 @@ Build employees class, with the mentioned properties and methods below:
 
 - In the `Employee` class:
 
-1. Add the properties below to the employee class:  
-int id
-string name
-string role
-double salary
+1. Add the properties below to the Employee class:  
+**int id**  
+**string name**  
+**string role**  
+**double salary**  
 
-2. Add the method below to the employee class:
+2. Add the method below to the Employee class:
 printInfo(){}  
-This method should print all employee class properties.
+This method should print all Employee class properties.
 
 
 - In the `main` function:

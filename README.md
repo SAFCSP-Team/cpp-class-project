@@ -9,6 +9,7 @@ In this project, our main goal is to understand how to build a class and use its
 Build employees class, with the mentioned properties and methods below.
 
 ### Implementation
+<br/>
 
 - In the `Employee` class:
 
@@ -18,11 +19,9 @@ Build employees class, with the mentioned properties and methods below.
 **string role**  
 **double salary**  
 
-2. Add the method below to the Employee class:
-printInfo(){}  
-This method should print all Employee class properties.
-
-
+2. Create `printInfo()` method, that prints all Employee class properties.
+<br/>
+   
 - In the `main` function:
 3. Create an object of the Employee class
 

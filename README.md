@@ -51,12 +51,12 @@ class Employee {
 
     public:
     /* Add your code here 
-    1. Properties id, name, role, salary
+    1
     */
 
 
    /* Add your code here 
-    2. Methods printInfo(){}
+    2
     */
 
 
@@ -65,15 +65,15 @@ class Employee {
 int main(){
 
     /* Add your code here 
-    3. Create an object of the Employee class
+    3
     */
 
    /* Add your code here 
-    4. Access object properties and assign value for each one
+    4
     */
 
    /* Add your code here 
-    5. Call printInfo(){} method to print object values
+    5
     */
 
 
